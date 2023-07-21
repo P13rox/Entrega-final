@@ -1,0 +1,5 @@
+Para el proyecto se utilizó:
+1. El sensor de temperatura y humedad del starter kit https://docs.rakwireless.com/Product-Categories/WisBlock/RAK1901/Datasheet/
+2. El moudulo RAK5801 WisBlock 4-20mA Interface Module. https://docs.rakwireless.com/Product-Categories/WisBlock/RAK5801/Datasheet/
+3. Sensor externo a starter kit MH-RD o sensor de lluvia
+
